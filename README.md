@@ -141,6 +141,7 @@ class Dog:
         return self
 
 fido = Dog("Fido")
+
 # Fido is born!
 fido.showing_self()
 # <__main__.Dog object at 0x104f8bfa0>
